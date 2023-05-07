@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="">
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.gitignore" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/strategy_backtesting.iml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/GDX.xls" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/GLD.xls" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/GLD_GDX_pair.ipynb" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/IJR_20080114.txt" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/dl_sp500_universe.ipynb" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/pca_factor_model.ipynb" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/sp500.txt" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/transaction_costs.ipynb" afterDir="false" />
+    <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="First commit">
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/dl_sp500_universe.ipynb" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/dl_sp500_universe.ipynb" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/sp500.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,4 +72,8 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
 </project>
