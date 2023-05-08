@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="First commit">
+    <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="Get SP500 list from datahub.io">
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/dl_sp500_universe.ipynb" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/dl_sp500_universe.ipynb" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/sp500.txt" beforeDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/sp500.xlsx" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/sp500.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +75,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Get SP500 list from datahub.io" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get SP500 list from datahub.io" />
   </component>
 </project>
