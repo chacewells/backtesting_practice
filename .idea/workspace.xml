@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="Get SP500 list from datahub.io">
+    <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="Ensure &gt;= 250 rows">
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/SPX_20071123.txt" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/buy_worst_five.ipynb" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/dl_sp500_universe.ipynb" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/dl_sp500_universe.ipynb" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/sp500.xlsx" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/sp500.xlsx" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/transaction_costs.ipynb" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/transaction_costs.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/chace/AppData/Local/JetBrains/Toolbox/apps/DataSpell/ch-0/231.8109.197/jbr/bin/strategy_backtesting",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/chace/AppData/Local/JetBrains/Toolbox/apps/DataSpell/ch-0/231.8109.197/jbr/bin/strategy_backtesting&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\chace\AppData\Local\JetBrains\Toolbox\apps\DataSpell\ch-0\231.8109.197\jbr\bin\strategy_backtesting" />
@@ -76,6 +79,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Get SP500 list from datahub.io" />
-    <option name="LAST_COMMIT_MESSAGE" value="Get SP500 list from datahub.io" />
+    <MESSAGE value="Ensure &gt;= 250 rows" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ensure &gt;= 250 rows" />
   </component>
 </project>
