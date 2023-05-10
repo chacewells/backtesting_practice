@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="Ensure &gt;= 250 rows">
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/SPX_20071123.txt" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/buy_worst_five.ipynb" afterDir="false" />
+    <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="Start buy_worst_five strategy">
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/vectorized_backtesting.ipynb" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/dl_sp500_universe.ipynb" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/dl_sp500_universe.ipynb" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/sp500.xlsx" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/sp500.xlsx" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/transaction_costs.ipynb" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/transaction_costs.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +76,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Get SP500 list from datahub.io" />
     <MESSAGE value="Ensure &gt;= 250 rows" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ensure &gt;= 250 rows" />
+    <MESSAGE value="Start buy_worst_five strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start buy_worst_five strategy" />
   </component>
 </project>
