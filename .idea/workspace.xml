@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="Start buy_worst_five strategy">
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/numpy_practice/numpy_arrays.ipynb" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/worst5_strategy_20220509-20230505/^SPX.csv" afterDir="false" />
+    <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="Explanatory note">
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/buy_worst_five.ipynb" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/worst5_strategy_20220509-20230505/buy_worst_five.ipynb" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/sp500.xlsx" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/worst5_strategy_20220509-20230505/sp500.xlsx" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/worst5_strategy_20220509-20230505/buy_worst_five.ipynb" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/worst5_strategy_20220509-20230505/buy_worst_five.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +80,8 @@
     <MESSAGE value="Get SP500 list from datahub.io" />
     <MESSAGE value="Ensure &gt;= 250 rows" />
     <MESSAGE value="Start buy_worst_five strategy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start buy_worst_five strategy" />
+    <MESSAGE value="Evaluate worst 5 from May 2022 to May 2023" />
+    <MESSAGE value="Explanatory note" />
+    <option name="LAST_COMMIT_MESSAGE" value="Explanatory note" />
   </component>
 </project>
