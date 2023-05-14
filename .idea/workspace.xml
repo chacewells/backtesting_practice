@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="Start buy_worst_five strategy">
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/vectorized_backtesting.ipynb" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/numpy_practice/numpy_arrays.ipynb" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/worst5_strategy_20220509-20230505/^SPX.csv" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/buy_worst_five.ipynb" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/worst5_strategy_20220509-20230505/buy_worst_five.ipynb" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/sp500.xlsx" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/worst5_strategy_20220509-20230505/sp500.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/chace/AppData/Local/JetBrains/Toolbox/apps/DataSpell/ch-0/231.8109.197/jbr/bin/strategy_backtesting&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/chace/AppData/Local/JetBrains/Toolbox/apps/DataSpell/ch-0/231.8109.197/jbr/bin/strategy_backtesting",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\chace\AppData\Local\JetBrains\Toolbox\apps\DataSpell\ch-0\231.8109.197\jbr\bin\strategy_backtesting" />
+      <recent name="C:\Users\chace\AppData\Local\JetBrains\Toolbox\apps\DataSpell\ch-0\231.8109.197\jbr\bin\strategy_backtesting\example_code" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chace\AppData\Local\JetBrains\Toolbox\apps\DataSpell\ch-0\231.8109.197\jbr\bin\strategy_backtesting\worst5_strategy_20220509-20230505" />
       <recent name="C:\Users\chace\AppData\Local\JetBrains\Toolbox\apps\DataSpell\ch-0\231.8109.197\jbr\bin\strategy_backtesting" />
     </key>
   </component>
