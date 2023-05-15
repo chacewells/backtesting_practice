@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="Small adjustments to indices and such">
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/worst5_strategy_20220509-20230505/buy_worst_five.ipynb" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/strategy_backtesting/worst5_strategy_20220509-20230505/buy_worst_five.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="2478aa94-252b-40f7-b11d-93774012c9c0" name="Changes" comment="reformat" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +80,7 @@
     <MESSAGE value="Evaluate worst 5 from May 2022 to May 2023" />
     <MESSAGE value="Explanatory note" />
     <MESSAGE value="Small adjustments to indices and such" />
-    <option name="LAST_COMMIT_MESSAGE" value="Small adjustments to indices and such" />
+    <MESSAGE value="reformat" />
+    <option name="LAST_COMMIT_MESSAGE" value="reformat" />
   </component>
 </project>
